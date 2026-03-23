@@ -26,7 +26,7 @@ cd diabetes-streamlit-app
 
 
 
-pip install -r requirements.txt
+pip install -r requirements.txt 
 
 
 ---
